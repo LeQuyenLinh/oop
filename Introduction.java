@@ -1,4 +1,4 @@
-public class Main {
+public class Introduction {
     public static void main(String[] args) {
         System.out.println("Lê Quyền Linh/t" + "24022383/t" +"INT2204 1/t" + "LeQuyenLinh/t" +"24022383@vnu.edu.vn");
         System.out.println("9 bottles of beer on the wall, 9 bottles of beer.");
